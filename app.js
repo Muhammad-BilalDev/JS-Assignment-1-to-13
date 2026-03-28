@@ -1,7 +1,5 @@
 // Assignment 1
 
-const { version } = require("react")
-
 // answer(1)
 // alert("Welcome to our website!");
 
